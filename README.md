@@ -22,9 +22,11 @@
 
 ## 😄 About me ##
 
-I start in IT with 17 years old throught the course" python para zumbis"by my sister influence . After the course a great curiosity born " why the computer work? how they do it this?", so i decide to courser the BTI on UFRN, for solvig this curuosity. During this walking i'm having the oportunity to contribute in amazing projects, like ProEIDI and AEDES, that make my adimiration for the area grow more and more.
+I started in IT with 17 years old throught the course" python para zumbis" by my old sister influence. After the course in my born a great curiosity "why the computer work? how they do it this?", so i decide to courser the BTI on UFRN, for solvig this curuosity.
 
-## :sparkles: Features ##
+During this walking i'm having the oportunity to contribute in amazing projects, like ProEIDI and AEDES, that make my adimiration for the area grow more and more.
+
+## :sparkles: Skills ##
 
 Some of my skills: 
 
