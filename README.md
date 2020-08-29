@@ -1,6 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./assets/Screenshot_2020-08-29 Design UX Alura - Cursos online de tecnologia.png" alt="Fernando Ff" />
-
+:bust_in_silhouette:
   &#xa0;
 
   <!-- <a href="https://fernandoff.netlify.app">Demo</a> -->
