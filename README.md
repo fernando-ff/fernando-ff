@@ -1,5 +1,5 @@
 <div align="center" style="font-size:24px" id="top"> 
-:bust_in_silhouette:
+<img src="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Screenshot_2020-08-29%20Design%20UX%20Alura%20-%20Cursos%20online%20de%20tecnologia.png" />
   &#xa0;
 
   <!-- <a href="https://fernandoff.netlify.app">Demo</a> -->
@@ -53,7 +53,7 @@ My curriculum
 
 </img>
 
-You can see it <a style="color:#000, text-decoration:none" href="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Curr%C3%ADculo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
+You can see it <a style="color:#000, text-decoration:none" href="index.html" download="Fernando Curriculum pdf" target="_blank">here </a>
 &#xa0;
 
 <a href="#top">Back to top</a>
