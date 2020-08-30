@@ -47,13 +47,13 @@ Email: fferreiralf.1@gmail.com
 
 Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
 
-<h2 style="align-item:center"><img src="./assets/Screenshot_2020-08-30 Inovação Gestão Alura - Cursos online de tecnologia.png" > 
+<h2 style="align-item:center"><img src="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Screenshot_2020-08-30%20Inova%C3%A7%C3%A3o%20Gest%C3%A3o%20Alura%20-%20Cursos%20online%20de%20tecnologia.png" > 
 My curriculum
 </h2>
 
 </img>
 
-You can see it <a style="color:#000, text-decoration:none" href="./assets/Currículo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
+You can see it <a style="color:#000, text-decoration:none" href="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Curr%C3%ADculo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
 &#xa0;
 
 <a href="#top">Back to top</a>
