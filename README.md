@@ -42,8 +42,9 @@ Some of my skills:
 
 You can contact to me by three ways:
 
-whatsapp/telegram:+55(84)99615-2689;\
-Email: fferreiralf.1@gmail.com
+Whatsapp/telegram:+55(84)99615-2689;\
+Email: fferreiralf.1@gmail.com;\
+<a href="https://www.linkedin.com/in/fernando-ferreira-7155161a5/" target="_blank">Linkedin</a>
 
 Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
 
@@ -52,6 +53,8 @@ My curriculum
 </h2>
 
 </img>
+
+<!-- <embed src="assets/Currículo(1).pdf" width="100%" height="2100px" /> -->
 
 You can see it <a style="color:#000, text-decoration:none" href="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Curr%C3%ADculo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
 &#xa0;
