@@ -40,13 +40,13 @@ Some of my skills:
 
 ## 📫 How to reach me
 
-You can contact to me by three ways:
+You can contact to me by two ways:
 
-Whatsapp/telegram:+55(84)99615-2689;\
-Email: fferreiralf.1@gmail.com;\
-<a href="https://www.linkedin.com/in/fernando-ferreira-7155161a5/" target="_blank">Linkedin</a>
+[![Gmail Badge](https://img.shields.io/badge/-fferreiralf.1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fferreiralf.1@gmail.com)](mailto:fferreiralf.1@gmail.com)
 
-Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santanasara/)](https://www.linkedin.com/in/fernando-ferreira-7155161a5/)
+
+
 
 <h2 style="align-item:center"><img src="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Screenshot_2020-08-30%20Inova%C3%A7%C3%A3o%20Gest%C3%A3o%20Alura%20-%20Cursos%20online%20de%20tecnologia.png" > 
 My curriculum
@@ -58,5 +58,7 @@ My curriculum
 
 You can see it <a style="color:#000, text-decoration:none" href="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Curr%C3%ADculo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
 &#xa0;
+
+Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
 
 <a href="#top">Back to top</a>
