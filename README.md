@@ -32,6 +32,7 @@ Além disso atualmente tenho como objetivo desenvolver meus conhecimentos e habi
 :heavy_check_mark: TDD / testes unitários e funcionais;\
 :heavy_check_mark: Java / Spring boot;\
 :heavy_check_mark: Node.js / Express;\
+:heavy_check_mark: JPA / SQL
 :heavy_check_mark: and ++;
 
 
