@@ -10,7 +10,7 @@
 <!-- Status -->
 
 <h4 align="center"> 
-	🚧 🚀 Under construction...  🚧
+	🚧 🚀 Em construção...  🚧
 </h4> 
 
 <hr>
@@ -18,29 +18,26 @@
 
 <br>
 
-## 😄 About me ##
+## 😄 Sobre mim ##
 
-I started in IT with 17 years old throught the course" python para zumbis" by my old sister influence.After finishing the course I started to have more curiosity about the area, so with that in mind I decided to go to college and currently I am doing "BTI" course (Information Tecnology Bacherlor) at UFRN.
+Curso o BTI -Bacharelado em Tecnologia da Informação- na UFRN, estou no 5º período com o foco em desenvolvimento de sistemas web, algumas práticas que realizei durante minhas horas de estudo podem ser vistas aqui.
 
-During this walking I'm having the oportunity to contribute in amazing projects, like ProEIDI and AEDES, where I can learn and also put in practice my skills.
+Já atuei em alguns projetos de pesquisa na universidade, hoje em dia atuo no projeto NUPLAM como desenvolvedor full-stack, com as ferramentas Java, Spring Framework, Vue.js,etc com a atenção voltada para o desenvolvimento backend com Java e Spring.
+
+Além disso atualmente tenho como objetivo desenvolver meus conhecimentos e habilidades em lógica matemática e sua aplicabilidade no dia a dia do desenvolvimento de software.
 
 ## :sparkles: Skills ##
 
-Some of my skills: 
-
-:heavy_check_mark: HTML5 amd CSS3;\
 :heavy_check_mark: JavaScript/TypeScript;\
-:heavy_check_mark: React Native;\
-:heavy_check_mark: React.js;\
-:heavy_check_mark: Node.js;\
+:heavy_check_mark: TDD / testes unitários e funcionais;\
+:heavy_check_mark: Java / Spring boot;\
+:heavy_check_mark: Node.js / Express;\
 :heavy_check_mark: and ++;
 
 
 
 
-## 📫 How to reach me
-
-You can contact to me by two ways:
+## 📫 Onde você pode me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-fferreiralf.1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fferreiralf.1@gmail.com)](mailto:fferreiralf.1@gmail.com)
 
@@ -49,16 +46,13 @@ You can contact to me by two ways:
 
 
 <h2 style="align-item:center"><img src="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Screenshot_2020-08-30%20Inova%C3%A7%C3%A3o%20Gest%C3%A3o%20Alura%20-%20Cursos%20online%20de%20tecnologia.png" > 
-My curriculum
+Meu currículo
 </h2>
 
 </img>
 
-<!-- <embed src="assets/Currículo(1).pdf" width="100%" height="2100px" /> -->
 
 You can see it <a style="color:#000, text-decoration:none" href="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Curr%C3%ADculo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
 &#xa0;
-
-Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
 
 <a href="#top">Back to top</a>
