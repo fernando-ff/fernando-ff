@@ -52,7 +52,7 @@ Meu currículo
 </img>
 
 
-You can see it <a style="color:#000, text-decoration:none" href="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Curr%C3%ADculo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
+Você pode ver ele aqui <a style="color:#000, text-decoration:none" href="https://github.com/fernando-ff/fernando-ff/blob/master/assets/Curr%C3%ADculo(1).pdf" download="Fernando Curriculum pdf" target="_blank">here </a>
 &#xa0;
 
 <a href="#top">Back to top</a>
